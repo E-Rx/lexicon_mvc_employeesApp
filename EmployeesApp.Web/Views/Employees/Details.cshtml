@@ -3,10 +3,25 @@
     ViewBag.Title = "Employee Details";
 }
 
+<partial name="_TimeBox" />
 
-<body style="margin: 50px;">
-    <partial name="_TimeBox"/>
-    <h4>ID: <i>@Model.Id</i></h4>
-    <h4>Name: <i>@Model.Name</i></h4>
-    <h4>E-mail: <i>@Model.Email</i></h4>
-</body>
+<h4>ID: <i>@Model.Id</i></h4>
+<h4>Name: <i>@Model.Name</i></h4>
+<h4>E-mail: <i>@Model.Email</i></h4>
+
+
+@section scripts {
+    <script>
+        function updateClock() {
+            const now = new Date();
+            const hours = String(now.getHours()).padStart(2, '0');
+            const minutes = String(now.getMinutes()).padStart(2, '0');
+            const seconds = String(now.getSeconds()).padStart(2, '0');
+            const timeString = `${hours}:${minutes}:${seconds}`;
+            document.getElementById('clock').textContent = timeString;
+        }
+
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+}

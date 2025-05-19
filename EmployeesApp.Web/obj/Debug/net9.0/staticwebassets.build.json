@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "0NMKPmCxGz0d1clR47rWznBxUHrNVmshhGPrcXoJv1Y=",
+  "Source": "EmployeesApp.Web",
+  "BasePath": "_content/EmployeesApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EmployeesApp.Web/wwwroot",
+      "Source": "EmployeesApp.Web",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/59e4c9g8ue-4v8eqarkd7.gz",
+      "SourceId": "EmployeesApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "RelativePath": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint=4v8eqarkd7}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nu9eu9tcct",
+      "Integrity": "X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/bvx3ftwmwc-o1o13a6vjx.gz",
+      "SourceId": "EmployeesApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint=o1o13a6vjx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fjz6w14ce3",
+      "Integrity": "lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery.min.js"
+    },
+    {
+      "Identity": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/geg2lo3u6g-ag7o75518u.gz",
+      "SourceId": "EmployeesApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "RelativePath": "jquery/jquery-validate/jquery.validate.min#[.{fingerprint=ag7o75518u}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validate/jquery.validate.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2nuylusgcd",
+      "Integrity": "YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validate/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validate/jquery.validate.min.js",
+      "SourceId": "EmployeesApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "RelativePath": "jquery/jquery-validate/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ag7o75518u",
+      "Integrity": "umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/jquery/jquery-validate/jquery.validate.min.js"
+    },
+    {
+      "Identity": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "SourceId": "EmployeesApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "RelativePath": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4v8eqarkd7",
+      "Integrity": "YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery.min.js",
+      "SourceId": "EmployeesApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/",
+      "BasePath": "_content/EmployeesApp.Web",
+      "RelativePath": "jquery/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o1o13a6vjx",
+      "Integrity": "/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/jquery/jquery.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "jquery/jquery-validate/jquery.validate.min.ag7o75518u.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/geg2lo3u6g-ag7o75518u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000123122384"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8121"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery-validate/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validate/jquery.validate.min.ag7o75518u.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validate/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery-validate/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validate/jquery.validate.min.ag7o75518u.js.gz",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/geg2lo3u6g-ag7o75518u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ag7o75518u"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery-validate/jquery.validate.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validate/jquery.validate.min.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/geg2lo3u6g-ag7o75518u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000123122384"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8121"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validate/jquery.validate.min.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validate/jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-umbTaFxP31Fv6O1itpLS/3+v5fOAWDLOUzlmvOGaKV4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validate/jquery.validate.min.js.gz",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/geg2lo3u6g-ag7o75518u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YgOEl7ge6Ki6+76DGHj7yoX9Qs+JWj09WvIFSjhk2cs="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/59e4c9g8ue-4v8eqarkd7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452898551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js.gz",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/59e4c9g8ue-4v8eqarkd7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4v8eqarkd7"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/59e4c9g8ue-4v8eqarkd7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000452898551"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJa7W8EiQdQpkk93iGEjjnLSUWRpRJbSfzfURh1kxz4="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js.gz",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/59e4c9g8ue-4v8eqarkd7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2207"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X5v6p2DF+RAiFhn86edCn2BMm85rL/1BfawJ7eYKiaY="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/bvx3ftwmwc-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032590275"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30683"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.js.gz",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/bvx3ftwmwc-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/bvx3ftwmwc-o1o13a6vjx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032590275"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30683"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "87533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+        }
+      ]
+    },
+    {
+      "Route": "jquery/jquery.min.o1o13a6vjx.js.gz",
+      "AssetFile": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/obj/Debug/net9.0/compressed/bvx3ftwmwc-o1o13a6vjx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30683"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 19 May 2025 13:51:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o1o13a6vjx"
+        },
+        {
+          "Name": "label",
+          "Value": "jquery/jquery.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lQJ7hfi78sXWfeYzRPHYaorepUtSAgUubKKf7dCETlA="
+        }
+      ]
+    }
+  ]
+}

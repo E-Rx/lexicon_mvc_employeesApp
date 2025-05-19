@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validate/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/jquery/jquery-validate/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/eliserochaix/Lexicon VT2025 C#/lexicon_mvc_employeesApp/EmployeesApp.Web/wwwroot/jquery/jquery.min.js",
+      "PackagePath": "staticwebassets/jquery/jquery.min.js"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.EmployeesApp.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.EmployeesApp.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.EmployeesApp.Web.props",
+      "PackagePath": "build\\EmployeesApp.Web.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.EmployeesApp.Web.props",
+      "PackagePath": "buildMultiTargeting\\EmployeesApp.Web.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.EmployeesApp.Web.props",
+      "PackagePath": "buildTransitive\\EmployeesApp.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
