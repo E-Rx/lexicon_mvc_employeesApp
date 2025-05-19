@@ -3,12 +3,20 @@
     ViewBag.Title = "Employee Details";
 }
 
+
 <partial name="_TimeBox" />
 
-<h4>ID: <i>@Model.Id</i></h4>
-<h4>Name: <i>@Model.Name</i></h4>
-<h4>E-mail: <i>@Model.Email</i></h4>
+<h2>Employee informations</h2>  
 
+<div class="card w-50 mb-3">
+    <div class="card-body">
+        <p class="card-text"><strong>ID:</strong> @Model.Id</p>
+        <p class="card-text"><strong>Name:</strong> @Model.Name</p>
+        <p class="card-text"><strong>Email:</strong> @Model.Email</p>
+    </div>
+</div>
+
+<a class="btn btn-success" asp-controller="Employees" asp-action="Index">Back to List</a>
 
 @section scripts {
     <script>

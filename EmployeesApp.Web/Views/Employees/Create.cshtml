@@ -3,22 +3,32 @@
     ViewBag.Title = "Create Employee";
 }
 
+<div class="container mt-4">
+    <h2 class="mb-4">Add a new employee</h2>
+    <div class="col-md-5">
 
-    <form asp-controller="Employees" asp-action="Create" style="width: 300px;">
-        <label asp-for="Name"></label>
-        <input asp-for="Name"/>
-        <span asp-validation-for="Name"></span>
+        <form asp-controller="Employees" asp-action="Create" novalidate>
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
 
-        <label asp-for="Email"></label>
-        <input asp-for="Email" />
-        <span asp-validation-for="Email"></span>
-        <br />
-        <input type="submit" value="Save" />
-    </form>
-    <div asp-validation-summary="All"></div>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
 
-@section scripts
-{
+            <button type="submit" class="btn btn-success">Save</button>
+        </form>
+
+        <div asp-validation-summary="All" class="text-danger mt-3"></div>
+
+    </div>
+</div>
+
+@section scripts {
     <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.2/jquery.validate.min.js" asp-fallback-src="/jquery/jquery-validate/jquery.validate.min.js"></script>
     <script src="https://ajax.aspnetcdn.com/ajax/mvc/5.2.3/jquery.validate.unobtrusive.min.js" asp-fallback-src="/jquery/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 }
